@@ -10,7 +10,8 @@
 
 .experience-card-dark {
   position: relative;
-  background-color: $darkBackground;
+  // background-color: $darkBackground;
+  background: $darkBackground;
   box-shadow: $lightBoxShadowDark 0px 10px 30px -15px;
   border-radius: 10px;
   border: 1px solid $lightBorder1;

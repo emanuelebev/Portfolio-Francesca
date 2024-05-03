@@ -8,7 +8,8 @@
 /* header */
 
 .dark-menu {
-  background-color: $darkBackground !important;
+  // background-color: $darkBackground !important;
+  background: $darkBackground !important;
   color: $textColorDark;
 }
 
@@ -68,6 +69,8 @@
   font-variant-ligatures: no-common-ligatures;
   -webkit-font-variant-ligatures: no-common-ligatures;
   padding: 0px 10px;
+  padding-right: 20px;
+  padding-left: 20px;
 }
 
 /* menu */

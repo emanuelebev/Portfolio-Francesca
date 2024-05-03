@@ -78,7 +78,8 @@
 }
 
 .dark-card-mode {
-  background-color: $darkBackground;
+  // background-color: $darkBackground;
+  background: $darkBackground;
   color: $textColorDark;
 }
 .dark-card-mode p {

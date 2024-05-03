@@ -24,7 +24,7 @@ const greeting = {
   title: "Hi all, I'm Francesca",
   subTitle: emoji(
     // "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
-    "I'm Francesca, an enthusiastic Software Engineer 🚀 dedicated to crafting innovative solutions through code. Welcome to my portfolio, where you'll find a curated collection of my projects, code samples, and a glimpse into my journey as a software engineer, feel free to explore!"
+    "I'm Francesca, an enthusiastic Marketing expert 💻 dedicated to companies free to explore!"
     // I'm driven by a genuine curiosity for all things tech and a commitment to delivering high-quality, scalable software. Whether it's developing robust back-end systems, creating intuitive user interfaces, or diving deep into data analysis, I relish every opportunity to push the boundaries of what's possible in software development.
   ),
   resumeLink: "",
